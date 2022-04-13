@@ -1,0 +1,7 @@
+.DecorationBar {
+  position: fixed;
+  background-color: hsl(180deg, 10%, 85%);
+  bottom: 0;
+  width: 100%;
+  height: 40%;
+}
